@@ -31,19 +31,6 @@ The dataset contains the following columns (example):
 
 > You can use any dataset like the one from [Kaggle: Car Dekho Dataset](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho).
 
-## 🚀 Getting Started
-
-### 1. Clone the repo
-```bash
-git clone https://github.com/your-username/used-car-price-prediction.git
-cd used-car-price-prediction
-```
-
-### 2. Install dependencies
-```bash
-pip install -r requirements.txt
-```
-
 ### 3. Run the notebook
 Open `UsedCarPricePrediction.ipynb` in Jupyter or Google Colab and run all cells.
 
